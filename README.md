@@ -10,3 +10,6 @@ The type particular project helps keep track of questions and answers which can 
 This project helps with learning Destructuring.
 
 Github link: https://github.com/andrettaj/Module9
+Walkthrough link:
+https://drive.google.com/file/d/1L-RA3V4tgCGYkkc3oeL09vNKqfzkASZ_/view
+![Alt text](image.png)

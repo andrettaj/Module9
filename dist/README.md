@@ -1,9 +1,9 @@
-# almost complete
+# Module9
   ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## Description
-working 
+Generates a readme file 
 ## Installation
 npm i
 ## Usage
-jdks
+enter node index at node terminal
