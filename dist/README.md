@@ -1,9 +1,9 @@
-# fjdks
-  ![License](https://img.shields.io/badge/License-APACHE%202.0-blue)
+# almost complete
+  ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## Description
-jkd 
+working 
 ## Installation
 npm i
 ## Usage
-sjfk
+jdks
